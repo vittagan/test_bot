@@ -1,0 +1,6 @@
+aioschedule
+aiogram
+requests
+bs4
+lxml
+sqlite3
